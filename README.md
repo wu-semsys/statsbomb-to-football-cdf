@@ -1,4 +1,4 @@
-# Statsbom to Football CDF
+# Statsbomb to Football CDF
 
 A Python script for converting football/soccer data from [StatsBomb open-data](https://github.com/statsbomb/open-data) format to [Football Common Data Format (CDF)](https://doi.org/10.48550/arXiv.2505.15820) to semantic web-ready JSON-LD format.
 
