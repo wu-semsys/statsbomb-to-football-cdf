@@ -139,7 +139,7 @@ This project is licensed under the MIT License.
 
 ## Acknowledgments
 
-- [StatsBomb](https://statsbomb.com/) for providing open football data
+- ![StatsBomb Icon](images/statsbomb_icon.svg)[StatsBomb](https://statsbomb.com/) for providing open football data
 - [Football Common Data Format](https://doi.org/10.48550/arXiv.2505.15820)
 
 
